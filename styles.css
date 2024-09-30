@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    color: white;
+    margin: 0;
+    padding: 0;
+    background-color: #282828;
+}
+
+img {
+    height: 5cm;
+    width: 5cm;
+}
+
+header {
+    background-color: #68e355;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+}
+
+button {
+    margin-top: 1rem;
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+main {
+    padding: 2rem;
+}
+
+section {
+    margin-bottom: 2rem;
+}
+
+
+h2 {
+    color: #838383;
+}
+
+h1, h3 {
+    color: white;
+}
